@@ -1,10 +1,11 @@
 {
-  "name": "fcc-api-projects-boilerplate",
-  "version": "0.0.1",
-  "description": "An FCC Backend Challenge",
+  "name": "timestamp-api",
+  "version": "1.0.0",
+  "description": "RESTful API for converting between Unix timestamps and UTC dates",
   "type": "module",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "dev": "node --watch index.js"
   },
   "dependencies": {
@@ -13,17 +14,22 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/freeCodeCamp/boilerplate-project-timestamp.git"
+    "url": "https://github.com/WebDevAbdullah/timestamp-api.git"
   },
   "bugs": {
-    "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues"
+    "url": "https://github.com/WebDevAbdullah/timestamp-api/issues"
   },
-  "homepage": "https://github.com/freeCodeCamp/boilerplate-project-timestamp#readme",
-  "author": "freeCodeCamp <team@freecodecamp.org>",
+  "homepage": "https://github.com/WebDevAbdullah/timestamp-api#readme",
+  "author": "Abdullah",
   "keywords": [
-    "node",
+    "api",
+    "timestamp",
+    "nodejs",
     "express",
-    "freeCodeCamp"
+    "microservice",
+    "unix-timestamp",
+    "utc",
+    "date-conversion"
   ],
   "license": "MIT"
 }

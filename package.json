@@ -1,7 +1,7 @@
 {
-  "name": "timestamp-api",
+  "name": "timestamp-microservice",
   "version": "1.0.0",
-  "description": "RESTful API for converting between Unix timestamps and UTC dates",
+  "description": "a microservice project that converts between Unix timestamps and UTC dates",
   "type": "module",
   "main": "index.js",
   "scripts": {
@@ -14,12 +14,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/WebDevAbdullah/timestamp-api.git"
+    "url": "https://github.com/WebDevAbdullah/timestamp-microservice.git"
   },
-  "bugs": {
-    "url": "https://github.com/WebDevAbdullah/timestamp-api/issues"
-  },
-  "homepage": "https://github.com/WebDevAbdullah/timestamp-api#readme",
+  "homepage": "https://github.com/WebDevAbdullah/timestamp-microservice#readme",
   "author": "Abdullah",
   "keywords": [
     "api",
